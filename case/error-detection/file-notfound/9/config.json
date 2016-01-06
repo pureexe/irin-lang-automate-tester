@@ -1,0 +1,5 @@
+{
+  "file": "main.irin",
+  "error": ["ENOENT: no such file or directory"],
+  "repeat": 10
+}

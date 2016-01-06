@@ -1,0 +1,12 @@
+{
+  "input": ["hi","hello","nice to see you","good morning","good afternoon"],
+  "reply": [
+    ["Can I help you?","What's wrong?","What's happend?","What's up?"],
+    ["Can I help you?","What's wrong?","What's happend?","What's up?"],
+    ["Can I help you?","What's wrong?","What's happend?","What's up?"],
+    ["Can I help you?","What's wrong?","What's happend?","What's up?"],
+    ["Can I help you?","What's wrong?","What's happend?","What's up?"]
+  ],
+  "file": "main.irin",
+  "repeat": 10
+}

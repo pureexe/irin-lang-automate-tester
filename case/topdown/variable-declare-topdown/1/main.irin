@@ -1,0 +1,6 @@
+---
+name <- hello
+name <- world
+---
+a
+  {name}

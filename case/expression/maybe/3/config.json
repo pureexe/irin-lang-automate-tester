@@ -1,0 +1,8 @@
+{
+  "file": "main.irin",
+  "input": ["Nice to see you"],
+  "reply": [
+    ["me too."]
+  ],
+  "repeat": 10
+}

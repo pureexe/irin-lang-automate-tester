@@ -1,0 +1,9 @@
+---
+data <- 5
+---
+a
+  {data}{data<-{data}+20}
+b
+  {data<-{data}-20}{data}
+c
+  {data}

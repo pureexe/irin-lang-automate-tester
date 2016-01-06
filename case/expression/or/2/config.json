@@ -1,0 +1,6 @@
+{
+  "file": "main.irin",
+  "input": ["เธอชื่ออะไร","คุณชื่ออะไร","-"],
+  "reply": ["ชื่อไอรินค่ะ","ชื่อไอรินค่ะ","[Log:Error] answer not found."],
+  "repeat": 10
+}

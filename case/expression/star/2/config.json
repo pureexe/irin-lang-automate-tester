@@ -1,0 +1,6 @@
+{
+  "file": "main.irin",
+  "input": ["is it good for me","good for me"],
+  "reply": ["yes i think so.","[Log:Error] answer not found."],
+  "repeat": 10
+}

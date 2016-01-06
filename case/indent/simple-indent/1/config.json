@@ -1,0 +1,10 @@
+{
+  "input": ["a","c","e"],
+  "reply": [
+    ["b"],
+    ["d"],
+    ["f"]
+  ],
+  "file": "main.irin",
+  "repeat": 10
+}

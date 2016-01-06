@@ -1,0 +1,5 @@
+{
+  "file": "main.irin",
+  "error": ["Header must declare on top of file only."],
+  "repeat": 10
+}

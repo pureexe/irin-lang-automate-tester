@@ -1,0 +1,7 @@
+---
+data <- hello
+---
+a
+  {data}{data<-world}
+b
+  {data}{data<-hello}

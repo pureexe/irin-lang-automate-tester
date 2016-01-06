@@ -1,0 +1,12 @@
+{
+  "input": ["hello","yes","yes","hello","hello"],
+  "reply": [
+    ["can i help you?"],
+    ["Let's talk about it."],
+    ["[Log:Error] answer not found."],
+    ["can i help you?"],
+    ["can i help you?"]
+  ],
+  "file": "main.irin",
+  "repeat": 10
+}

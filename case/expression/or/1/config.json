@@ -1,0 +1,6 @@
+{
+  "file": "main.irin",
+  "input": ["hello","world","-"],
+  "reply": ["wow","wow","[Log:Error] answer not found."],
+  "repeat": 10
+}

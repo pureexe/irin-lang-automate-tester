@@ -1,0 +1,6 @@
+{
+  "file": "main.irin",
+  "input": ["you must have a name","you should have a name","you not have a name","you must not have a name","you have a name"],
+  "reply": ["thank you","thank you","[Log:Error] answer not found.","[Log:Error] answer not found.","[Log:Error] answer not found."],
+  "repeat": 10
+}

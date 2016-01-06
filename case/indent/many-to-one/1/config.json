@@ -1,0 +1,12 @@
+{
+  "input": ["hi","hello","nice to see you","good morning","good afternoon"],
+  "reply": [
+    ["can i help you?"],
+    ["can i help you?"],
+    ["can i help you?"],
+    ["can i help you?"],
+    ["can i help you?"]
+  ],
+  "file": "main.irin",
+  "repeat": 10
+}
