@@ -1,0 +1,5 @@
+{
+  "file": "main.irin",
+  "error":"Variable name must not start with number.",
+  "repeat": 10
+}

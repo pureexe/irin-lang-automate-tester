@@ -1,0 +1,6 @@
+{
+  "file": "main.irin",
+  "input": ["a"],
+  "error": "Variable name must not start with number.",
+  "repeat": 10
+}
